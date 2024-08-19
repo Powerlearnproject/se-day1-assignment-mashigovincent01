@@ -17,7 +17,7 @@ Led to the development of high-level programming languages like COBOL, Fortran, 
 
 Introduced the object-oriented paradigm, emphasizing encapsulation, inheritance, and polymorphism.
 Promoted software reuse and maintainability through concepts like classes, objects, and methods.
-1990s-Present: Agile Development and DevOps
+1990s-Present: Agile Development and DevOps.
 
 Embraced iterative and incremental development methodologies like Scrum and Kanban.
 Integrated software development with operations (DevOps) to streamline delivery and improve quality.
